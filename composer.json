@@ -1,0 +1,19 @@
+{
+    "name": "vinic/space-jam",
+    "autoload": {
+        "psr-4": {
+            "Vinic\\SpaceJam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "viniciussalvarenga"
+        }
+    ],
+    "require": {
+        "symfony/dom-crawler": "^3.2",
+        "symfony/css-selector": "^3.0",
+        "guzzlehttp/guzzle": "^6.3",
+        "forseti/logger": "^1.7"
+    }
+}
