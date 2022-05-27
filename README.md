@@ -19,7 +19,7 @@ composer install
 ```
 * Navegar até o diretório desafio01-forseti, digitar o comando:
 ```
-php bin/capturarspace.php
+php bin/capturarSpace.php
 ```
 
 ### Biblioteca utilizada:
