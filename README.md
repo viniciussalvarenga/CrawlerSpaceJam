@@ -11,7 +11,7 @@
 ### Como utilizar:
 * Clone este repositório 
 ```
-git clone https://github.com/haruoSugano/desafio01-forseti
+git clone https://github.com/viniciussalvarenga/CrawlerSpaceJam
 ```
 * Instalar o composer
 ```
@@ -19,7 +19,7 @@ composer install
 ```
 * Navegar até o diretório desafio01-forseti, digitar o comando:
 ```
-php example/home.php
+php bin/capturarspace.php
 ```
 
 ### Biblioteca utilizada:
